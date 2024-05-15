@@ -1,4 +1,6 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+## NAME:VESLIN ANISH A
+## REGISTER NO:212223240175
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
@@ -8,7 +10,7 @@ To write a python program for creating File Transfer using TCP Sockets Links
 4. Open the file and then send it to the client in byte format.
 5. In the client side receive the file from server and then write the content into it.
 ## PROGRAM
-Client:
+## Client:
 ```
 import socket
 s = socket.socket()
@@ -30,7 +32,7 @@ s.close()
 print('connection closed')
 
 ```
-Server:
+## Server:
 ```
 import socket 
 port = 60000 
@@ -56,7 +58,8 @@ while True:
 ```
 
 ## OUPUT
-![image](https://github.com/Priyaadarshinik/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/150005158/84fd3b6d-3324-4fa8-9b85-6c84d843f5d6)
+![Screenshot 2024-05-15 103245](https://github.com/veslin23000303/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/151148539/72fdbaa1-b079-4fa1-af95-e5720aba2367)
+
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
