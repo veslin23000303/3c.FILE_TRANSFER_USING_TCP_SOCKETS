@@ -57,7 +57,7 @@ while True:
    conn.close()
 ```
 
-## OUPUT
+## OUTPUT:
 ![Screenshot 2024-05-15 103245](https://github.com/veslin23000303/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/151148539/72fdbaa1-b079-4fa1-af95-e5720aba2367)
 
 
